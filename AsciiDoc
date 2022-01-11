@@ -13,4 +13,4 @@ puts "Hello, World!"
 
 image::http://localhost:8083/portal/environments/DEFAULT/media/824D55A3F5273730497389CF9F9C93C2[]
 
-image::https://upload.wikimedia.org/wikipedia/commons/8/87/Red_sunset.jpg[]
+image::https://upload.wikimedia.org/wikipedia/commons/8/87/Red_sunset.jpg[width="100%"]
