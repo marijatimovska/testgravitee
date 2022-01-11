@@ -1,11 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>A Meaningful Page Title</title>
-</head>
-<body>
+= Hello, AsciiDoc!
+Doc Writer <doc@example.com>
 
-The content of the document......
+An introduction to http://asciidoc.org[AsciiDoc].
 
-</body>
-</html>
+== First Section
+
+* item 1
+* item 2
+
+[source,ruby]
+puts "Hello, World!"
