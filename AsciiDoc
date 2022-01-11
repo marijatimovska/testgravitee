@@ -10,3 +10,5 @@ An introduction to http://asciidoc.org[AsciiDoc].
 
 [source,ruby]
 puts "Hello, World!"
+
+image::http://localhost:8083/portal/environments/DEFAULT/media/824D55A3F5273730497389CF9F9C93C2
